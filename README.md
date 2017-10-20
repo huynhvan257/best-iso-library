@@ -18,5 +18,5 @@ https://github.com/onevcat/Kingfisher
 ## Progress
 https://github.com/SVProgressHUD/SVProgressHUD
 
-## Zip
+## File
 https://github.com/ZipArchive/ZipArchive
