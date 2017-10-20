@@ -24,3 +24,7 @@ https://github.com/ZipArchive/ZipArchive
 ## JSON
 https://github.com/Hearst-DD/ObjectMapper
 https://github.com/tristanhimmelman/AlamofireObjectMapper
+
+## Alert & Action Sheet
+https://github.com/vikmeup/SCLAlertView-Swift
+
