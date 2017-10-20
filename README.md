@@ -20,3 +20,6 @@ https://github.com/SVProgressHUD/SVProgressHUD
 
 ## File
 https://github.com/ZipArchive/ZipArchive
+
+## JSON
+https://github.com/Hearst-DD/ObjectMapper
