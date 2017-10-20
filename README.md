@@ -10,6 +10,7 @@ Best iOS library
   
 ## 3. Networking
 https://github.com/Alamofire/Alamofire
+https://github.com/Alamofire/AlamofireNetworkActivityIndicator
 
 ## 4. Image Cache
 https://github.com/onevcat/Kingfisher
