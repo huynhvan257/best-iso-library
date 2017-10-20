@@ -27,4 +27,5 @@ https://github.com/tristanhimmelman/AlamofireObjectMapper
 
 ## Alert & Action Sheet
 https://github.com/vikmeup/SCLAlertView-Swift
+Toast https://github.com/SwiftKickMobile/SwiftMessages
 
