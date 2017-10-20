@@ -23,3 +23,4 @@ https://github.com/ZipArchive/ZipArchive
 
 ## JSON
 https://github.com/Hearst-DD/ObjectMapper
+https://github.com/tristanhimmelman/AlamofireObjectMapper
